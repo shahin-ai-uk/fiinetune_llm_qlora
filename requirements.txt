@@ -1,0 +1,10 @@
+unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
+torch
+transformers
+datasets
+trl<0.9.0
+peft
+accelerate
+bitsandbytes
+xformers
+huggingface_hub
